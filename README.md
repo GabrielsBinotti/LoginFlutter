@@ -1,2 +1,6 @@
-# LoginFlutter
-Exemplo de tela de login em Flutter
+# Login em Flutter
+Exemplo de como desenvolver um tela de login em Flutter.
+
+Será utilizado:
+
+
